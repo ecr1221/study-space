@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #003046;
 }
 
 .App-logo {
@@ -27,6 +28,27 @@
 .App-link {
   color: #61dafb;
 }
+
+.join-room{
+  color: white;
+}
+
+.list-item{
+  background-color:#CECECE;
+}
+
+.room-feed-page{
+  background-color: #003046;
+}
+
+.room-types {
+  color: #43D6B9;
+}
+
+.study-space {
+  color: #FA7815;
+}
+
 
 @keyframes App-logo-spin {
   from {

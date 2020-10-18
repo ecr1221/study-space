@@ -6,9 +6,21 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "bootstrap": "^4.5.3",
+    "konva": "^7.1.3",
+    "office-ui-fabric-react": "^7.147.1",
     "react": "^16.14.0",
+    "react-bootstrap": "^1.3.0",
+    "react-color": "^2.18.1",
     "react-dom": "^16.14.0",
-    "react-scripts": "3.4.3"
+    "react-konva": "^16.13.0-6",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "react-webcam": "^5.2.1",
+    "socket.io-client": "^2.3.1",
+    "typescript": "^4.0.3",
+    "use-image": "^1.0.6",
+    "uuid": "^8.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
